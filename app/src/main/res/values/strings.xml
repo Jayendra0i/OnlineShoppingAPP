@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Online shop store app</string>
+    <string name="splash_title">YOUR\nSTYLE WILL\nTELL ABOUT\nYOU</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="jayui">JayUI</string>
+    <string name="already_have_an_account_signing">Already have an account? <font color="#19c563">SignIn</font></string>
+    <string name="popular">Popular</string>
+    <string name="home" />
+    <string name="favorite" />
+    <string name="cart" />
+    <string name="profile" />
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="colors_amp_Size">Colors &amp; Size</string>
+    <string name="Product_detail">Product Detail</string>
+    <string name="product_detail">Product Detail</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ऑनलाइन शॉप स्टोर ऐप</string>
+    <string name="splash_title">आपकी\nशैली आपके बारे\nमें बताएगी</string>
+    <string name="let_s_get_started">शुरू हो जाओ</string>
+    <string name="jayui">जययूआई</string>
+    <string name="already_have_an_account_signing">क्या आपके पास पहले से खाता है? <font color="#19c563">साइन इन करें</font></string>
+    <string name="popular">लोकप्रिय</string>
+    <string name="home">होम</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="cart">कार्ट</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="add_to_cart">कार्ट में जोड़ें</string>
+    <string name="colors_amp_Size">रंग और आकार</string>
+    <string name="Product_detail">उत्पाद विवरण</string>
+    <string name="product_detail">उत्पाद विवरण</string>
+    <string name="language_changed">भाषा बदली गई</string>
+</resources>
